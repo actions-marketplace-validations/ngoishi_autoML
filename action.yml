@@ -1,4 +1,4 @@
-name: "PyCaret AutoML Git Action"
+name: "Test in Nara on PyCaret AutoML Git Action"
 description: "A simple example of AutoML created using PyCaret 2.0"
 author: "Moez Ali"
 inputs:
